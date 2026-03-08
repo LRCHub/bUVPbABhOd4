@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "マッチョギャング",
+  "base_artist": "マチョリティー",
+  "createdAt": "2026-03-08T15:17:28.861657Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "マッチョギャング",
+      "artist": "マチョリティー",
+      "has_synced": false,
+      "path": "select/pl_01_マッチョギャング_マチョリティー.txt"
+    }
+  ]
+}
